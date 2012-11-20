@@ -10,5 +10,17 @@
 
 
 ## curl with method, password and data parameters
+  
+	$ curl -X DELETE -u "username:password" -d '{"name":"value"}'
+  
 
-`$ curl -X DELETE -u "username:password" -d '{"name":"value"}'`
+## to kill jobs
+  
+	$ jobs 
+	$ kill -9 %1
+
+	// or
+
+	$ ps 
+	$ ps -9 <jobid>
+  

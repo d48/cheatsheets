@@ -6,5 +6,5 @@
 function() {
     //some code
 }
-```
+\```
 ``` 

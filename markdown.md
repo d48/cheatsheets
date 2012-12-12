@@ -8,3 +8,9 @@ function() {
 }
 \```
 ``` 
+
+## align markdown table
+
+```bash
+<leader>\t|
+```

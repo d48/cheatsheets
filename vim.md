@@ -4,3 +4,8 @@
 	%
   
 
+## align markdown table
+
+```bash
+<leader>\t|
+```

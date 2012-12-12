@@ -24,3 +24,15 @@
 	$ ps 
 	$ ps -9 <jobid>
   
+
+## to kill job and all child processes from jobid
+  
+	$ kill -TERM -<jobid>
+  
+
+## using awk to get first column from stdin
+  
+	$ echo "hello dude" | awk '{print $1}'
+	// print out hello
+  
+

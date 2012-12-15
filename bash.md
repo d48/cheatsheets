@@ -36,7 +36,7 @@
 	// print out hello
   
 
-## word count
+## character count
   
 	$ echo "hello dude" | wc -m
 	// prints out 11

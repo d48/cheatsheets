@@ -38,8 +38,8 @@
 
 ## character count
   
-	$ echo "hello dude" | wc -m
-	// prints out 11
-	// need to figure out why extra character
+	$ echo -n "hello dude" | wc -m
+	// prints out 10
+	// -n option to not print out newline character
   
 

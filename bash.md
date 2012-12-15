@@ -36,3 +36,10 @@
 	// print out hello
   
 
+## word count
+  
+	$ echo "hello dude" | wc -m
+	// prints out 11
+	// need to figure out why extra character
+  
+

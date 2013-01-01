@@ -10,7 +10,7 @@
 <leader>\t|
 ```
 
-## surround plugin
+## surround plugin - word
 
 ```bash
 # surround string with a character.
@@ -19,3 +19,12 @@
 
 # wraps cursoronstring with `'` character
 ```
+
+## surround plugin - multiple words
+
+```
+v<selectwords>S"
+
+# wraps selectedwordsw with `"` character
+```
+

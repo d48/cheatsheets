@@ -12,3 +12,8 @@ $ show dbs
 $ use <mydatabasename>
 $ db.collectionName.save(<json document object>)
 ```
+
+## show collection
+```bash
+$ db.collectionName.find()
+```

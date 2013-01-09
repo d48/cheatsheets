@@ -7,6 +7,8 @@ if('Quick brown fox' =~ /Quick (\w+) (\w+)/g) {
 	print "This is $2\n";
 }
 ```
+```
 Output: 
 This is brown
 This is fox 
+```

@@ -28,3 +28,14 @@ v<selectwords>S"
 # wraps selectedwordsw with `"` character
 ```
 
+## Align
+
+```
+v<selectmultiplellines>:Align {
+
+# aligns all text on each row to the '{' character
+
+v<selectmultiplellines>:Align { -
+
+# aligns all text on each row to the '{' character, and then the '-' character
+```

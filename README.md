@@ -9,3 +9,5 @@ list of cheat sheets for different programs/libs I use
 * snipmate
 * vim
 * zencoding
+* github
+* perl

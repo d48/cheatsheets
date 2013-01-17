@@ -14,7 +14,7 @@
 
 ```bash
 # surround string with a character.
-# mnemonic: 'c'hange 's'urrouning 'w'ith (some character)
+# mnemonic: 'c'hange 's'urrounding 'w'ith (some character)
 <cursoronstring> csw'  
 
 # wraps cursoronstring with `'` character
@@ -23,9 +23,10 @@
 ## surround plugin - multiple words
 
 ```
+# mnemonic: 'v'isually select and 'S'urround 'some character'
 v<selectwords>S"
 
-# wraps selectedwordsw with `"` character
+# wraps selectedwords with `"` character
 ```
 
 ## Align

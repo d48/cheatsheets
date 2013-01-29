@@ -43,3 +43,10 @@
 	// -n option to not print out newline character
   
 
+## Deleting files from find command
+
+Flags help in making sure not to break up file names that contain spaces
+
+```
+$ find . -name vmware-*.log -print0 | xargs -0 rm
+```

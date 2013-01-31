@@ -40,3 +40,13 @@ v<selectmultiplellines>:Align { -
 
 # aligns all text on each row to the '{' character, and then the '-' character
 ```
+
+
+## Comment lines with motion using t-Comment
+
+```
+# mnemonic: 'g'o 'c'omment '4'lines j-down
+gc4j
+
+# comments out lines from current line to 4 down
+```

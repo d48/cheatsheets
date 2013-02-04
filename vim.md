@@ -50,3 +50,11 @@ gc4j
 
 # comments out lines from current line to 4 down
 ```
+
+## Count number of matching pattern in current file
+
+```
+:%s/mypattern//gn
+
+## outputs number of matches
+```

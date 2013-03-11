@@ -22,8 +22,8 @@
 
 ## surround plugin - change character with another charcter
 
-``` 
-# mnemonic - 'c'hange 's'urrounging "-character with '-character
+```bash
+# mnemonic - 'c'hange 's'urrounding "-character with '-character
 <place cursor inside quoted string>cs"`
 
 # "hello world" will change to `hello world`

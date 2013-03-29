@@ -51,3 +51,9 @@ Flags help in making sure not to break up file names that contain spaces
 $ find . -name "*conflicted copy*" -print0 | xargs -0 rm
 // deletes all files recursively from current directory that contains `conflicted copy` in the file name
 ```
+
+## To create the symbolic link
+
+```
+ln -s /actual/dir/location/ linkname
+```

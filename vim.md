@@ -68,10 +68,6 @@ gc4j
 ## outputs number of matches
 ```
 
-## Increment number on under cursor
-
-```
-<ctrl>+a to increment
 ## align markdown table
 
 ```bash

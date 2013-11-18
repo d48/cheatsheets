@@ -14,6 +14,19 @@
 	$ curl -X DELETE -u "username:password" -d '{"name":"value"}'
   
 
+## view background processes
+    
+    $ ps auxww
+
+ 
+## view background process for python SimpleHTTPServer 
+
+    $ ps auxww | grep 'python'
+    $ kill <pid> 
+
+    //<pid> from 2nd column
+
+ 
 ## to kill jobs
   
 	$ jobs 

@@ -138,3 +138,11 @@ gc4j
 <ctrl>+a to increment
 <ctrl>+x to decrement
 ```
+
+## mark and copy and paste 
+```
+mk // mark spot as k
+y'k // yank lines into spot k
+p // paste that bad boy
+```
+
